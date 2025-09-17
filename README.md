@@ -27,3 +27,6 @@ To build an interactive Excel dashboard using Pivot Tables and Charts for analyz
 - Pivot Analysis – Created Pivot Tables to summarize sales by region and executive.
 - Visualization – Designed Pivot Charts and combined them into an interactive dashboard.
 - Dashboard Design – Added slicers and formatting for automation, interactivity, and easy insights.
+
+## Dashboard
+- <a href="https://github.com/simranbisht07/Data-Analyst-Dashboard/blob/main/Dashboard%20Screenshoot.png">Dashboard Screenshot</a>
