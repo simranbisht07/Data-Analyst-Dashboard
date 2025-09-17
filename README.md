@@ -23,7 +23,7 @@ To build an interactive Excel dashboard using Pivot Tables and Charts for analyz
 
 ## Process
 
-Data Preparation – Cleaned raw sales data and added calculated fields (Total Sales, Target %, etc.).
-Pivot Analysis – Created Pivot Tables to summarize sales by region and executive.
-Visualization – Designed Pivot Charts and combined them into an interactive dashboard.
-Dashboard Design – Added slicers and formatting for automation, interactivity, and easy insights.
+- Data Preparation – Cleaned raw sales data and added calculated fields (Total Sales, Target %, etc.).
+- Pivot Analysis – Created Pivot Tables to summarize sales by region and executive.
+- Visualization – Designed Pivot Charts and combined them into an interactive dashboard.
+- Dashboard Design – Added slicers and formatting for automation, interactivity, and easy insights.
