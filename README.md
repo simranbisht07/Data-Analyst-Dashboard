@@ -4,4 +4,4 @@ To build an interactive Excel dashboard using Pivot Tables and Charts for analyz
 
 
 ## Dataset Used
-- <a herf="https://github.com/simranbisht07/Data-Analyst-Dashboard/blob/main/project1_Excel.xlsx">Dataset</a>
+- <a href="https://github.com/simranbisht07/Data-Analyst-Dashboard/blob/main/project1_Excel.xlsx">Dataset</a>
